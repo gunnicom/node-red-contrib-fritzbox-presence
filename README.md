@@ -28,4 +28,5 @@ npm install -g node-red-contrib-fritzbox-presence
 There is an example flow in `examples/simple-flow.json` that prints a list of
 active devices to the debug console. To run it in node-RED, copy the file's
 content and import it via *Menu > Import > Clipboard*. Make sure to configure
-the Fritz node to match your custom credentials.
+the Fritz node to match your custom credentials, after you configured your Fritz Box
+to login with username and password.
